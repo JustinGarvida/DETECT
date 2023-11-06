@@ -1,0 +1,39 @@
+What is your sex? (Male or Female)
+
+How old are you? (post 55, risk increases) 
+
+Have you experienced menopause? (Yes or No)
+  If so, at what age? (Input box)
+
+When was your first menstrual cycle? (before 12, risk increases)
+  
+Have you had breast cancer in the past? (Yes or No)
+  Do you have a family history of breast cancer? (Yes, No, Unsure)
+
+Any history of other breast conditions? (certain conditions are linked to increased risk)
+  Do you have or had a lump in your breast? (Yes or No)
+
+Have you ever been pregnant? (No pregnancy is linked to increased risk)
+Do you have any children? (Yes or No)
+  If so, how many children? ()
+  When did you give birth to your first child? (Having your first child after 30 increases risk)
+  Do you breastfeed? (Yes or No) (exclusively breast feeding during your baby's first 6 months, and continuing for 12 months or longer lowers risk)
+
+Do you have dense breasts? (Yes, No, Unsure)
+
+Are you currently taking hormone replacement therapy? (For example, estrogen replacement therapy increases risk)
+
+Are you taking birth control pills? (some increase risk)
+  
+Do you smoke? (Yes or No)
+  Do you live with someone who smokes? (Yes or No)
+  Are you frequently around someone who smokes? (Yes or No)
+
+Do you drink alcoholic beverages? (Yes or No)
+  How much? (# of glasses or volume(?))
+  How often? (Daily, Weekly, Monthly, Yearly)
+
+(increase in breast cancer risk from 15-30 grams/day of alcohol consumption (about 1-2 drinks/day, would increase confidence level))
+
+Do you actively excerise? (Yes or No)
+  How often a week? (Number Input)

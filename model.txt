@@ -1,0 +1,4 @@
+Questionaire, put all data into CSV
+
+clean the data by droppoing target columns
+
